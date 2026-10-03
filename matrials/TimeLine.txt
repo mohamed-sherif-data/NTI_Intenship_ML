@@ -1,0 +1,15 @@
+Day 1 -> Intro to AI + Intro to Python
+Day 2 -> Intro to Python (cont.) 
+Day 3 -> Pandas & NumPy
+Day 4 -> EDA & Data Cleaning + Visualization & Statistical Concepts
+Day 5 -> Linear Regression
+Day 6 -> Logistic Regression + Optimization & Evaluation
+Day 7 -> Data Preprocessing + Feature Engineering
+Day 8 -> KNN + Naive Bayes
+Day 9 -> SVM
+Day 10 -> Decision Tree (Classification + Regression)
+Day 11 -> Ensamble Learning (Random Forest + AdaBoost)
+Day 12 -> Unsupervised Learning (K-means + Hierarchical Clustering)
+Day 13 -> Model Selection & How to Overcome Overfitting 
+Day 14 -> Deployments (FastAPI + Streamlit) 
+

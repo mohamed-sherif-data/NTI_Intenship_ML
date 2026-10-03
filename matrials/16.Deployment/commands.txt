@@ -1,0 +1,21 @@
+# command to run FastAPI:
+uvicorn main:app --reload
+
+# Commands to push your project to GitHub:
+git init 
+git add . 
+git commit -m "Initial commit"
+git remote add origin https://github.com/AhdEhab/ML_persona.git
+git branch -M main
+git push -u origin main 
+
+# Command to run streamlit app:
+python -m streamlit run main.py
+
+# Hosting servers on which you can run your API 
+Render
+Railway
+Heroku
+Azure
+Vercel
+Replit
